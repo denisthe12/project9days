@@ -79,7 +79,7 @@ export default function Home() {
   return (
     <main className="container">
       <h1>Демонстрация API</h1>
-      <p className="intro">Занятие 4: Gemini и прогноз погоды на завтра.</p>
+      <p className="intro">ЗАНЯТИЕ 5, ИЗМЕНЕНИЯ ГИТХАБ.</p>
 
       <section className="card" aria-labelledby="study-plan-title">
         <h2 id="study-plan-title">Учебный план</h2>
